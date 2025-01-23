@@ -131,6 +131,6 @@ public class Lab3Task3 : MonoBehaviour
         {
             oneOutput = "";
         }
-        Debug.Log("Total: " + total + hundredOutput + fiftyOutput + twentyOutput + tenOutput + fiveOutput + oneOutput);
+        Debug.Log("Total: $" + total + hundredOutput + fiftyOutput + twentyOutput + tenOutput + fiveOutput + oneOutput);
     }
 }
